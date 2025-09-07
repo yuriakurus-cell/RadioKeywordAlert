@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RadioKeywordAlert</string>
+    <string name="intro">Вкажіть ключові слова через кому. Додаток слухає ефір поруч зі смартфоном і надсилає сповіщення при збігу.</string>
+    <string name="keywords_hint">Напр.: тривога, допомога, пожежа, скасування тривоги</string>
+    <string name="threshold_label">Поріг збігу (%)</string>
+    <string name="start">Запустити прослуховування</string>
+    <string name="stop">Зупинити</string>
+    <string name="mic_required">Потрібен доступ до мікрофона</string>
+    <string name="started">Сервіс запущено</string>
+    <string name="stopped">Сервіс зупинено</string>
+</resources>
